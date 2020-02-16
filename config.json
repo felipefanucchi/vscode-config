@@ -1,0 +1,54 @@
+{
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "editor.formatOnSave": false,
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#333333",
+      "statusBar.noFolderBackground": "#333333",
+      "statusBar.debuggingBackground": "#263238"
+    },
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.associations": {
+      "*.module": "php"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.rulers": [
+      80,
+      120
+    ],
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    }
+  }
